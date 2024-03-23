@@ -1,10 +1,11 @@
 # Data Types
-There are commonly 3 data types in Python:      
+There are commonly 4 data types in Python:      
 1. [Strings](#Strings)
 2. [Integers](#Integers)
 3. [Floats](#Floats)
+4. [Boolean](#Boolean)
 
-The type can be shown using the `type()` function   
+The type can be shown using the `type()` function as shown:  
 ```py
 >>> type(1)   
 <class 'int'>   
@@ -14,6 +15,9 @@ The type can be shown using the `type()` function
 
 >>> type(1.0)   
 <class 'float'>
+
+>>> type(True)
+<class 'bool'>
 ```   
 
 ## Strings
@@ -241,3 +245,31 @@ print(repeated_message)  # Output: "Hello! Hello! Hello! "
 - The + operator concatenates two strings (first_name and last_name) along with a space to create the full_name.
 - The * operator repeats the string message three times, creating repeated_message.   
 
+## Boolean
+Booleans are represented either True or False, crucial for making decisions and controlling program flow.  
+- True
+- False   
+
+Note that there are certain values that defaults to False such as:
+- None
+- Zero of any numeric type
+- Any empty data structures
+
+
+In this example, since *x* is not greater than *y*, the result would be **False**.
+```py
+x = 5
+y = 10
+result = x > y
+print(result)  # Output: False
+```
+
+In this example, the result is **True** since *x* is equals to *y*.
+```py
+x = 30
+y = 30
+result = x >= y
+print(result)  # Output: True
+```
+
+More will be discussed in the [Conditionals](../3.%20Conditionals/README.md) topic.
