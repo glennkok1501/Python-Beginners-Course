@@ -11,7 +11,7 @@ In this repository, you'll find:
 1. [Installation and Setup](./1.%20Installation%20and%20Setup/README.md)
 2. [Data Types](./Data%20Types/README.md)
 3. [Conditionals](./3.%20Conditionals/README.md)
-4. [Check Point 1](#)
+4. [Check Point 1](./4.%20Check%20Point%201/README.md)
 5. [Data Structures](#)
 6. [Loops and Iterations](#)
 7. [Functions and Modules](#)
