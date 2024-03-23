@@ -6,3 +6,13 @@ Write a program that takes a number as input and prints a sentence describing th
 - If the number is negative, print "Negative"
 - If the number is zero, print "Zero"
 - Ensure your program handles only numeric inputs, else print "Error"
+
+Download [check-point-1.py](./check-point-1.py) to answer the question.   
+```py
+num = input("Enter number: ")
+
+# write your solution below
+
+```
+
+Use [solution.py](./solution.py) to view my solution to this problem.
