@@ -1,8 +1,8 @@
 # Data Types
 There are commonly 3 data types in Python:      
-1. [Strings](##Strings)
-2. [Integers](##Integers)
-3. [Floats](##Floats)
+1. [Strings](#Strings)
+2. [Integers](#Integers)
+3. [Floats](#Floats)
 
 The type can be shown using the `type()` function   
 ```py
