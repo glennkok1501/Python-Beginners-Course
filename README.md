@@ -9,7 +9,7 @@ In this repository, you'll find:
 
 ## Table of Contents
 1. [Installation and Setup](./1.%20Installation%20and%20Setup/README.md)
-2. [Data Types](#)
+2. [Data Types](./Data%20Types/README.md)
 3. [Conditionals](#)
 4. [Check Point 1](#)
 5. [Data Structures](#)
